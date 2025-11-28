@@ -1,3 +1,5 @@
+# Blogger 
+
 A blog (AKA web log) is an informational website designed to allow a user to post text information. These posts are often in a diary style and/or an indication of what is on the creator's thoughts at the given time.
 
 A hashtag is a classification symbol which allows blog posts to be labeled as a set type. Users can use the hashtag for filtering blog posts to only those related to a specific interest.
