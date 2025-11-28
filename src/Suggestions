@@ -1,0 +1,3 @@
+Suggestions:
+- I don't have a suggestions but more of a questions why there is an api middle layer for making calls to the server
+endpoints instead of just calling them directly.
